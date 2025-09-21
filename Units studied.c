@@ -1,6 +1,6 @@
 /*
 Name:Ignatius Odhiambo Wandera
-Reg No: PA106/28770/25
+Reg No: PA106/G/28770/25
 Description:Program to list the units studied
 */
 #include<stdio.h>
@@ -18,4 +18,5 @@ int main()
 	printf("Computer systems and organisations\n");
 	
 	return 0;
+
 }
