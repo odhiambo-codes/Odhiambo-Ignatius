@@ -1,6 +1,6 @@
 /*
 Name:Ignatius Odhiambo Wandera
-Reg No:PA106/28770/25
+Reg No:PA106/G/28770/25
 Description:Program to compute my personal details
 */
 #include<stdio.h>
@@ -31,4 +31,5 @@ int main(){
 	scanf("%s" ,&tribe);
 	
 	return 0;
+
 }
