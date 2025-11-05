@@ -1,3 +1,7 @@
+NAME:IGNATIUS ODHIAMBO WANDERA
+REG NO:PA106/G/28770/25
+DECRIPTION: program_to_store_student_records
+*/
 #include <stdio.h>
 
 // (i) Define structure for student records
@@ -31,3 +35,4 @@ int main() {
     fclose(fptr);
     return 0;
 }
+
